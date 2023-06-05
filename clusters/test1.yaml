@@ -27,6 +27,8 @@ kind: Cluster
 metadata:
   labels:
     cni: test1-crs-0
+  annotations:
+    rancher-auto-import: "true"
   name: test1
   namespace: fleet-default
 spec:
