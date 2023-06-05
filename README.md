@@ -10,4 +10,5 @@ metadata:
   namespace: fleet-local
 spec:
   repo: https://github.com/richardcase/fleet-clusters
+  branch: main
 ```
